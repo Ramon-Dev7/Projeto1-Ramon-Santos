@@ -1,0 +1,18 @@
+ 
+  Pedro foi ao supermercado e comprou ovos, leite, farinha, açúcar, manteiga e achocolatado em pó para fazer um bolo de chocolate.
+ Como ele nunca fez um bolo antes, ele está bastante confuso e perdido.
+ Auxilie Pedro construindo uma sequência lógica dos passos necessários para a preparação desse bolo. 
+
+ Sequência Lógica Narativa.
+⦁ aquecer o forno à 180°;
+⦁ pegar todos ingredientes;
+⦁ pegar a forma;
+⦁ untar a forma com manteiga e farinha;
+⦁ separar os ingredientes em determinada quantidade;
+⦁ misturar os ingredientes e bater por 2 minutos; 
+⦁ despeje a mistura na forma;
+⦁ leve a forma ao forno por 30 minutos;
+⦁ enquanto não corar;
+⦁ deixar no forno;
+⦁ retire do forno;
+⦁ deixe esfriar;
