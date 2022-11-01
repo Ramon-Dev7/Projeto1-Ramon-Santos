@@ -1,0 +1,25 @@
+ Em uma sala de aula, há vinte e cinco alunos. Entre eles, existem os grupos dos que gostam de Português (P) e os que gostam de Matemática (M). Eles estão organizados na sala de forma alternada, conforme apresentado a seguir:
+
+ 1º) https://drive.google.com/file/d/1sbDqBEmzTiaW7ZtcLpB48SwH4uiuTCG3/view
+
+
+ Chegaram mais onze alunos nessa turma e o professor organizou a turma da seguinte maneira:
+
+ 
+ 2º) https://drive.google.com/file/d/11JmohZOnc2g_gudHJXu5y81F4efR2TMn/view
+
+ 3º) https://drive.google.com/file/d/1r8zyBImECwBQPh2DJHDBA8vYDMn-r1Gp/vie
+
+ No entanto, o professor se ausentou da sala por cinco minutos e, ao voltar, percebeu que um aluno que gosta de uma das disciplinas havia trocado de lugar com alguém que prefere a outra.
+
+ Sabendo que o professor tem dificuldade de memorizar, informe como ele descobriu a cadeira em que houve a troca de alunos e qual a disciplina de cada um. 
+
+ 
+
+
+ Resposta: O professor usou o reconhecimento de padrões.
+ todas as linhas da imagem 02 tem 4+2 alunos de M e P isso tanto horizontal quanto vertical então isso é um padão.
+ já na imagem 03 nota a diferência de padrão já que ficam com 3+3 de cada disciplina na quinta linha horisontal de cima para baixo,
+ perceba que só na 5ª linha da horizontal muda o padrão enquanto que nas linhas da vertical o padrão se mantem ai ele percebe que
+ um aluno de matemática trocou de lugar com um aluno de português.
+ 
